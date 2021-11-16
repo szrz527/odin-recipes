@@ -1,0 +1,18 @@
+* {
+  background-color: rgb(124, 67, 67);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+li {
+  font-size: 18px;
+  text-align: left;
+}
+h1 {
+  font-size: 32px;
+  text-align: center;
+  border: 5px solid salmon;
+  color: rgb(255, 255, 255);
+}
+h2 {
+  color: rgb(255, 255, 255);
+}
